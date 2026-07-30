@@ -74,16 +74,14 @@
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayshankar927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jayashankara's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshankar927&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayshankar927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jayashankara's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayshankar927&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="49%" />
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayshankar927&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
