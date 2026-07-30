@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science Graduate from JSSSTU (SJCE) passionate about building scalable, reliable distributed systems[cite: 1].
-- 💻 Specialized in full-stack web development (**MERN**, **Flask**) and cross-platform mobile app development[cite: 1].
-- 🧠 Actively practicing advanced algorithms, data structures, and competitive programming[cite: 1].
-- 🤖 Experienced in NLP & Deep Learning projects (e.g., Emotion Detection using TensorFlow & LSTMs)[cite: 1].
-- 🌐 Check out my personal portfolio: [Jayashankara's Portfolio](https://jayshankar-portfolio-zeta.vercel.app/)[cite: 1]
+- 🎓 Computer Science Graduate from JSSSTU (SJCE) passionate about building scalable, reliable distributed systems.
+- 💻 Specialized in full-stack web development (**MERN**, **Flask**) and cross-platform mobile app development.
+- 🧠 Actively practicing advanced algorithms, data structures, and competitive programming.
+- 🤖 Experienced in NLP & Deep Learning projects (e.g., Emotion Detection using TensorFlow & LSTMs).
+- 🌐 Check out my personal portfolio: [Jayashankara's Portfolio](https://jayshankar-portfolio-zeta.vercel.app/)
 
 ---
 
@@ -61,14 +61,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-### 💼 Experience
-
-- **Frontend Web Developer Intern** @ Codsoft *(Aug 2024 – Sep 2024)*[cite: 1]
-  - Built interactive UI components using ReactJS, HTML, and CSS[cite: 1].
-  - Improved application responsiveness and user experience with API integration[cite: 1].
 
 ---
 
